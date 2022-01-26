@@ -1,5 +1,6 @@
-/*************************************************** N O T E ***************************************************/
-// Bank management system
+// Bank Management System...
+// Code by : Dipak Chandrakant Mali
+//           github.com/malidipak
 
 #include <stdio.h>
 #include <conio.h>
